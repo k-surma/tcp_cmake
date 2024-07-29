@@ -13,8 +13,8 @@ Projekt TCP Asio to przykład aplikacji klient-serwer, wykorzystującej bibliote
 1. **Pobierz repozytorium:**
 
     ```sh
-    git clone https://github.com/TwojeRepo/tcp_asio.git
-    cd tcp_asio
+    git clone https://github.com/k-surma/tcp_cmake.git
+    cd tcp_cmake
     ```
 
 2. **Pobierz i zainstaluj Boost:**
@@ -48,10 +48,10 @@ Projekt TCP Asio to przykład aplikacji klient-serwer, wykorzystującej bibliote
 
 5. **Uruchomienie projektu:**
 
-    Po skompilowaniu projektu, w katalogu `build` znajdziesz plik wykonywalny `tcp_asio`. Możesz go uruchomić, aby wybrać tryb serwera lub klienta.
+    Po skompilowaniu projektu, w katalogu `build` znajdziesz plik wykonywalny `tcp_cmake`. Możesz go uruchomić, aby wybrać tryb serwera lub klienta.
 
     ```sh
-    ./tcp_asio
+    ./tcp_cmake
     ```
 
 ## Użytkowanie

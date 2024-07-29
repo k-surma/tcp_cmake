@@ -1,0 +1,7 @@
+# local_config.cmake
+
+# Ustawienie œcie¿ki do Boost
+set(BOOST_ROOT "C:/Users/User/Downloads/boost_1_85_0/boost_1_85_0")
+set(BOOST_INCLUDEDIR "C:/Users/User/Downloads/boost_1_85_0/boost_1_85_0")
+set(BOOST_LIBRARYDIR "C:/Users/User/Downloads/boost_1_85_0/boost_1_85_0/stage/lib")
+set(Boost_NO_SYSTEM_PATHS TRUE)

@@ -1,0 +1,69 @@
+# Ignoruj plik local_config.cmake
+/local_config.cmake
+
+# Ignoruj katalogi budowania
+/build/
+/x64/
+/Release/
+/Debug/
+/CMakeFiles/
+/cmake-build-debug/
+/cmake-build-release/
+
+# Ignoruj pliki generowane przez CMake
+CMakeCache.txt
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+cmake_install.cmake
+
+# Ignoruj pliki dzienników
+CMakeFiles/*.log
+
+# Ignoruj pliki tymczasowe edytora i systemu operacyjnego
+*.swp
+*.tmp
+*.temp
+*.~*
+*.bak
+*.ncb
+*.sdf
+*.suo
+*.user
+*.log
+*.rej
+*.idb
+*.pdb
+*.obj
+*.pch
+*.ilk
+*.res
+*.aps
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.csproj.user
+
+# Ignoruj pliki i katalogi specyficzne dla Visual Studio
+.vscode/
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Ignoruj pliki binarne i obiekty
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.out
+*.app
+
+# Ignoruj pliki konfiguracji i buildowania
+*.vcxproj
+*.vcxproj.*
+*.make
+Makefile
+Makefile.in
+*.mk
